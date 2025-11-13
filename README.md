@@ -14,4 +14,4 @@ I Codes, I Experiments with Vanguart Tech, I Also Do Low Poly Modeling & Pixel A
 ![HTML5](https://img.shields.io/badge/Language-HTML5-e34f26?style=flat-square&logo=html5&logoColor=fa7f5e)
 ![CSS3](https://img.shields.io/badge/Language-CSS3-1572b6?style=flat-square&logo=csswizardry&logoColor=6cbefa)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginerJ&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginerJuanUdesa&layout=compact&theme=dark)
