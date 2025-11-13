@@ -14,7 +14,7 @@ Love to code and experiment with vanguard tech specifically AI.
 ![HTML5](https://img.shields.io/badge/Language-HTML5-e34f26?style=flat-square&logo=html5&logoColor=fa7f5e)
 ![CSS3](https://img.shields.io/badge/Language-CSS3-1572b6?style=flat-square&logo=csswizardry&logoColor=6cbefa)
 
-<b>Tech I use regularly<b>
+<b>Tech I use regularly:<b>
 
 ![Docker](https://img.shields.io/badge/Tool-Docker-2496ED?style=flat-square&logo=docker&logoColor=2496ED)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=ee4c2c)
