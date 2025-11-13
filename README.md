@@ -12,4 +12,4 @@ I Codes, I Experiments with Vanguart Tech, I Also Do Low Poly Modeling & Pixel A
 ![C++](https://img.shields.io/badge/Language-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=39b6ff)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-e34f26?style=flat-square&logo=html5&logoColor=fa7f5e)
-![CSS3](https://img.shields.io/badge/Language-CSS3-1572b6?style=flat-square&logo=csswizardry&logoColor=6cbefa
+![CSS3](https://img.shields.io/badge/Language-CSS3-1572b6?style=flat-square&logo=csswizardry&logoColor=6cbefa)
