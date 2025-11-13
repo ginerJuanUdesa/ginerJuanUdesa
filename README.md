@@ -1,4 +1,4 @@
-I Codes, I Experiments with Vanguart Tech, I Also Do Low Poly Modeling & Pixel Art.
+Love to code and experiment with vanguard tech specifically AI.
 
 <b>Fluent on:<b>
 
