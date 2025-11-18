@@ -1,4 +1,4 @@
-Future UdeSA AI Engineer
+Future Argentinian UdeSA AI Engineer.
 
 Love to code and experiment with vanguard tech specifically AI.
 
