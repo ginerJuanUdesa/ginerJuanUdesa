@@ -22,3 +22,5 @@ Love to code and experiment with vanguard tech specifically AI.
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=ee4c2c)
 ![Linux](https://img.shields.io/badge/Kernel-Linux-FCC624?style=flat-square&logo=linux&logoColor=FCC624)
 ![MLflow](https://img.shields.io/badge/Tool-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=0194E2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginerJuanUdesa&layout=compact&theme=dark)
