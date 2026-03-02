@@ -1,4 +1,4 @@
-Future UdeSA's AI Engineer graduate from Argentina.
+Future UdeSA AI Engineer graduate from Argentina.
 
 Love to code and experiment with vanguard tech specifically AI.
 
