@@ -1,18 +1,17 @@
-AI Engineering student @ [UdeSA](https://udesa.edu.ar), Argentina — researcher, teaching assistant, and builder.
+AI Engineering student [UdeSA](https://udesa.edu.ar), Argentina — researcher, teaching assistant, and builder.
 
 Experience:
-- Undergraduate researcher with **ISI Foundation × UdeSA** — optimizing LLM-based information extraction on humanitarian crisis reports for **UNICEF**
 - **Data Scientist** at [Soflex S.A.](https://soflex.com.ar), building NLP solutions
-- **Teaching Assistant** for AI Fundamentals at UdeSA
+- **Teaching Assistant** for AI Fundamentals at [UdeSA](https://udesa.edu.ar)
+- **Undergraduate researcher** with **ISI Foundation × UdeSA** — optimizing LLM-based information extraction on humanitarian crisis reports for **UNICEF**
 
-Interested in LLMs, computer vision, local inference, and agentic systems.
+Interested in NLP, computer vision, local inference, and agentic systems.
 
 ---
 
 <b>AI / ML stack:</b>
 
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=ee4c2c)
-![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![HuggingFace](https://img.shields.io/badge/Hub-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![MLflow](https://img.shields.io/badge/Tool-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=0194E2)
 
