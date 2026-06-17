@@ -1,6 +1,6 @@
 AI Engineering student @ [UdeSA](https://udesa.edu.ar), Argentina — researcher, teaching assistant, and builder.
 
-Currently:
+Experience:
 - Undergraduate researcher with **ISI Foundation × UdeSA** — optimizing LLM-based information extraction on humanitarian crisis reports for **UNICEF**
 - **Data Scientist** at [Soflex S.A.](https://soflex.com.ar), building NLP solutions
 - **Teaching Assistant** for AI Fundamentals at UdeSA
