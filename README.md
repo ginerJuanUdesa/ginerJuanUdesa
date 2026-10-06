@@ -16,6 +16,9 @@ CV available [here](https://github.com/ginerJuanUdesa/CV).
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=ee4c2c)
 ![TensorBoard](https://img.shields.io/badge/Tool-TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/Framework-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![vLLM](https://img.shields.io/badge/Serving-vLLM-FDB515?style=flat-square&logo=v&logoColor=FDB515)
+![llama.cpp](https://img.shields.io/badge/Serving-llama.cpp-000000?style=flat-square&logo=cplusplus&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hub-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![MLflow](https://img.shields.io/badge/Tool-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=0194E2)
 
